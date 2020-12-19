@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Veronica
+### Hi, I'm Veronica
 
 #### Full-Stack Web Developer
 
@@ -7,10 +7,6 @@ Always I've had that desire of create things, It is fascinating how we can take 
 During my non-tech roles I learn a lot about team work, production line, give solution to user needs, time management and (of course) problem solving.
 
 As a full-stack web developer I really enjoy doing request, work with the data saved on the data base and then get that data to the client side is like magic.
-
-<!-- ![Full-Stack Web Developer](https://github.com/veroca88/veroca88/blob/main/images/banner_bgGray.png?raw=true) -->
-
-[<img src='https://github.com/veroca88/veroca88/blob/main/images/banner_bgGray.png?raw=true' alt='website' height='200'>]
 
 I'm always learning and discovering new ways of doing things!
 
@@ -38,17 +34,4 @@ My favorites? mountains, coding, music, my family!
 
 - Linkedin: https://www.linkedin.com/in/veroca/
 
-<!--
-**veroca88/veroca88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://profile-counter.glitch.me/veroca88/count.svg)
