@@ -1,4 +1,4 @@
-### Hi, I'm Veronica
+## Hi, I'm Veronica
 
 #### Full-Stack Web Developer
 
@@ -12,25 +12,25 @@ I'm always learning and discovering new ways of doing things!
 
 My favorites? mountains, coding, music, my family!
 
-## 👩‍💻 I'm currently learning
+### 👩‍💻 I'm currently learning
 
 - AWS Developer Associate
 
-## 🌱 I’m currently working on
+### 🌱 I’m currently working on
 
 - Weather Chart App
 
   > Using Node.js Express.js Axios, React.js and Chart.js
 
-## 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
 
 - Any open source project (JavaScript)
 
-## 🔭 Learn more about me and my projects
+### 🔭 Learn more about me and my projects
 
 - Portfolio: https://veronicadonoso.info/
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 - Linkedin: https://www.linkedin.com/in/veroca/
 
