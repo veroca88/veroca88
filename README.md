@@ -18,9 +18,9 @@ My favorites? mountains, coding, music, my family!
 
 ### 🌱 I’m currently working on
 
-- Weather Chart App
+- Personal Blog
 
-  > Using Node.js Express.js Axios, React.js and Chart.js
+  > Next.js, Tailwind, AWS
 
 ### 👯 I’m looking to collaborate on
 
