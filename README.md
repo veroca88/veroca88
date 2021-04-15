@@ -14,13 +14,13 @@ My favorites? mountains, coding, music, my family!
 
 ### 👩‍💻 I'm currently learning
 
-- Python! 🐍
+- Java! ♨️
 
 ### 🌱 I’m currently working on
 
-- Personal Blog
+- Blog
 
-  > Next.js, Tailwind, AWS
+  > Node.js, Tailwind, AWS
 
 ### 👯 I’m looking to collaborate on
 
