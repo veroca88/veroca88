@@ -14,7 +14,7 @@ My favorites? mountains, coding, music, my family!
 
 ### 👩‍💻 I'm currently learning
 
-- Java! ♨️
+- PHP / Laravel 
 
 ### 🌱 I’m currently working on
 
