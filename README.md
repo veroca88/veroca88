@@ -18,13 +18,11 @@ My favorites? mountains, coding, music, my family!
 
 ### 🌱 I’m currently working on
 
-- Blog
-
-  > Node.js, Tailwind, AWS
+- LogApp (Laravel)
 
 ### 👯 I’m looking to collaborate on
 
-- Any open source project (JavaScript)
+- Open source project.
 
 ### 🔭 Learn more about me and my projects
 
