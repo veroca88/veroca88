@@ -33,7 +33,3 @@ My favorites? mountains, coding, music, my family!
 - Linkedin: https://www.linkedin.com/in/veroca/
 
 ##
-
-Visitor Count 🎉
-
-![Visitor Count](https://profile-counter.glitch.me/veroca88/count.svg)
