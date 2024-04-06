@@ -10,23 +10,7 @@ My favorites? mountains, coding, music, my family!
 
 ### ⌨️ Languages and tools
 
-- Javascript
-- React.js
-- Node.js
-- MongoDB
-- HTML
-- CSS
-- PHP
-- Laravel 
-- MySql 
-- API 
-- JavaScript
-- AWS 
-- Nova (administration panel PHP-Laravel) 
-- CI / CD
-- Application performance and Error Monitoring
-
-### 👩‍💻 I'm currently learning ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- PHP, Laravel, Laravel, MySql, Javascript, React.js, Node.js, MongoDB, HTML, Tailwind CSS, RESTful APIs, Nova (administration panel PHP-Laravel), CI / CD.
 
 ### 👯 I’m looking to collaborate on
 
@@ -36,4 +20,6 @@ My favorites? mountains, coding, music, my family!
 
 - Linkedin: https://www.linkedin.com/in/veroca/
 
-##
+### 👩🏾‍💻 Porfolio
+
+- [porfolio.veronicadonoso.com](https://portfolio.veronicadonoso.com/)
