@@ -10,7 +10,7 @@ My favorites? mountains, coding, music, my family!
 
 ### ⌨️ Languages and tools
 
-- PHP, Laravel, Laravel, MySql, Javascript, React.js, Node.js, MongoDB, HTML, Tailwind CSS, RESTful APIs, Nova (administration panel PHP-Laravel), CI / CD.
+- PHP, Laravel, MySql, Javascript, React.js, Node.js, MongoDB, HTML, Tailwind CSS, RESTful APIs, Nova (administration panel PHP-Laravel), CI / CD, Linux
 
 ### 👯 I’m looking to collaborate on
 
