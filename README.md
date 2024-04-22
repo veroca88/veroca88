@@ -10,12 +10,12 @@ My favorites? mountains, coding, music, my family!
 
 ### ⌨️ Languages and tools
 
-- PHP, Laravel, MySql, Javascript, React.js, Node.js, MongoDB, HTML, Tailwind CSS, RESTful APIs, Nova (administration panel PHP-Laravel), CI / CD, Linux
+- PHP, Laravel (MVC architecture), MySql, Javascript, React.js, Node.js, MongoDB, HTML, Tailwind CSS, RESTful APIs, Nova (administration panel PHP-Laravel), CI / CD, Linux
 
 ### 👯 I’m looking to collaborate on
 
 - Interesting and challenging projects! ...I'm all in!
-- 
+  
 ### 📫 How to reach me
 
 - Linkedin: https://www.linkedin.com/in/veroca/
