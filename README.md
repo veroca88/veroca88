@@ -14,8 +14,8 @@ My favorites? mountains, coding, music, my family!
 
 ### 👯 I’m looking to collaborate on
 
-- Open source project.
-
+- Interesting and challenging projects! ...I'm all in!
+- 
 ### 📫 How to reach me
 
 - Linkedin: https://www.linkedin.com/in/veroca/
