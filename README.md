@@ -19,7 +19,3 @@ My favorites? mountains, coding, music, my family!
 ### 📫 How to reach me
 
 - Linkedin: https://www.linkedin.com/in/veroca/
-
-### 👩🏾‍💻 Portfolio
-
-- [portfolio.veronicadonoso.com](https://portfolio.veronicadonoso.com/)
